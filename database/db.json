@@ -1,14 +1,41 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "produk": "Fanta",
+      "serial": "1682697",
+      "stok": "6",
+      "category": "Food&Drink",
+      "hargaSatuan": "5000",
+      "status": "available"
+    },
+    {
+      "produk": "Coca-Cola",
+      "stok": "50",
+      "hargaSatuan": "7000",
+      "id": 2,
+      "category": "Food&Drink",
+      "serial": "1234567",
+      "status": "available"
+    },
+    {
+      "serial": "9090909",
+      "produk": "Meja Belajar",
+      "stok": "5",
+      "hargaSatuan": "1000000",
+      "category": "Furniture",
+      "status": "available",
+      "id": 3
+    },
+    {
+      "serial": "7654321",
+      "produk": "Kaos Oblong",
+      "stok": "12",
+      "hargaSatuan": "30000",
+      "category": "Fashion",
+      "status": "available",
+      "id": 4
+    }
+  ]
 }
